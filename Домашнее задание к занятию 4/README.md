@@ -43,7 +43,7 @@ https://hub.docker.com/repository/docker/l1geon/custom-nginx/general
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 ### ОТВЕТ
-![Image alt](https://github.com/L1geon/DevOps-Lern/raw/master/Домашнее задание к занятию 4/images/Task2.png)
+![Image alt](https://disk.yandex.ru/i/tDADdpG5Qd5cDw)
 
 
 
